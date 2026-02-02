@@ -1,0 +1,16 @@
+{
+  "name": "memcompress-cli",
+  "version": "1.0.0",
+  "description": "Semantic compression for memory files - LLM-readable symbol compression",
+  "main": "index.js",
+  "bin": {
+    "memcompress": "./bin/memcompress.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["memory", "compression", "semantic", "llm", "symbols"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
