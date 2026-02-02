@@ -9,8 +9,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["memory", "compression", "semantic", "llm", "symbols"],
-  "author": "",
+  "keywords": ["memory", "compression", "semantic", "llm", "symbols", "openclaw", "clawd", "agent", "cli"],
+  "author": "Sincere Software LLP",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sincere-arjun/memcompress-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sincere-arjun/memcompress-skill/issues"
+  },
+  "homepage": "https://github.com/sincere-arjun/memcompress-skill#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
